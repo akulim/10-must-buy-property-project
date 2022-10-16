@@ -1,4 +1,4 @@
-# DigiLABS-Housing-Project
+# "10 Must-Buy Property in Melbourne, Australia" Project
 This repository includes the first project that I have done in the Data Science Foundational Workshop by DigiLABS Singapore x Code for ASIA. 
 <br>
 The projects are all done in group, but it is modified in the representation and steps.
